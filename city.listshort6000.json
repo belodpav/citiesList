@@ -1,4 +1,4 @@
-{{"_id":707860,"name":"Hurzuf","country":"UA","coord":{"lon":34.283333,"lat":44.549999}}
+[{"_id":707860,"name":"Hurzuf","country":"UA","coord":{"lon":34.283333,"lat":44.549999}}
 {"_id":519188,"name":"Novinki","country":"RU","coord":{"lon":37.666668,"lat":55.683334}}
 {"_id":1283378,"name":"Gorkhā","country":"NP","coord":{"lon":84.633331,"lat":28}}
 {"_id":1270260,"name":"State of Haryāna","country":"IN","coord":{"lon":76,"lat":29}}
@@ -5998,4 +5998,4 @@
 {"_id":1630058,"name":"Rangkasbitung","country":"ID","coord":{"lon":106.249397,"lat":-6.3591}}
 {"_id":1630200,"name":"Rajapolah","country":"ID","coord":{"lon":108.189598,"lat":-7.221}}
 {"_id":1630328,"name":"Purwokerto","country":"ID","coord":{"lon":109.234444,"lat":-7.42139}}
-}
+]
